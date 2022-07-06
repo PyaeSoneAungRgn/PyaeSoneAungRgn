@@ -4,8 +4,8 @@
 
 - 📝 I regularly write articles on [pyaesoneaung.dev](https://pyaesoneaung.dev/)
 
-- 📫 How to reach me: **[Facebook](https://www.facebook.com/pyaesoneaung28199/)**
+- 🌱 I’m currently learning: [Fresh](https://fresh.deno.dev/)
 
-- ⚡ Fun fact: **Can't code without coffee**
+- 📫 How to reach me: [Facebook](https://www.facebook.com/pyaesoneaung28199/)
 
 - 🏠 Hogwarts House: **Slytherin**
