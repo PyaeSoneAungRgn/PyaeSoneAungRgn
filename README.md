@@ -6,6 +6,6 @@
 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/pyaesoneaung28199/)
 
-- 🏠 Hogwarts house: **Slytherin**
+- 🏠 Hogwarts house: Slytherin 🐍
 
 - ⚡️ Fun fact: 2D3D Developer 😛
