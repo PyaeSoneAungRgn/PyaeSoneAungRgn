@@ -4,8 +4,8 @@
 
 - 📝 I regularly write articles on [pyaesoneaung.dev](https://pyaesoneaung.dev/)
 
-- 📫 How to reach me: [Facebook](https://www.facebook.com/pyaesoneaung28199/)
+- 📫 How to reach me: [Twitter](https://twitter.com/psa1999)
 
 - 🏠 Hogwarts house: Slytherin 🐍
 
-- ⚡️ Fun fact: 2D3D Developer 😛
+- ⚡️ Fun fact: [Magnus God 😛](https://youtu.be/Fti3ZJxS4ok)
