@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pyae Sone Aung</h1>
 
-- 🔭 I’m currently working on [DO Schedule](https://doschedule.cloud/)
-
 - 📝 I regularly write articles on [pyaesoneaung.dev](https://pyaesoneaung.dev/)
 
 - 📫 How to reach me: [Twitter](https://twitter.com/psa1999)
